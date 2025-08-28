@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Kamil</h1>
-<h3 align="center"> I'm a Full Stack Developer with a background in operations management</h3>
+<h3 align="center"> I'm a Software Developer with a background in operations management</h3>
 
 <p> My coding journey started while was a student when I built a website for a high school newspaper. Since that time, I helped a lot of people with building their companies' online presence and managed everything from website navigation and layout to web hosting and infrastructure. </p>
 <p>When the pandemic made me stay at home, I jumped at the opportunity to amplify and advance my coding knowledge and skills. I love that software development gives me the ability to put my ideas out into the world and help other people. I have a passion for productivity and efficiency, but on the side, I also enjoy running.</p>
